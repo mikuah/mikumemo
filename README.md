@@ -1,2 +1,2 @@
 # schpro-staticwebsite
-Url : https://staticwebsite-mikuah.netlify.app
+Url: https://mikumemo.netlify.app/
