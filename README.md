@@ -1,2 +1,2 @@
-# schpro-staticwebsite
+# school project
 Url: https://mikumemo.netlify.app/
