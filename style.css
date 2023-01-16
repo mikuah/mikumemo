@@ -1,3 +1,6 @@
+html {
+  scroll-behavior: smooth;
+}
 :root {
     --color-matcha: #759324;
     --color-blue: #3968ab;
